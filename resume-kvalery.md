@@ -1,12 +1,10 @@
-**Valeriy Kayukov**
-**Network Engineer**
-
+# Valeriy Kayukov
+## Network Engineer
+[GitHub](https://github.com/kvaleriy) | [LinkedIn](https://www.linkedin.com/in/valery-k-ab8b3945/) | [Email](mailto:kayukovvalery@gmail.com)
 Professional Experience 12 years
-Mob.: +353 221 2501
-email: kayukovvalery@gmail.com
 
 **EXPERIENCE**
-
+-
 Demonware Ireland, November 2020 to Present
 Network Engineer
 -	Work on key infrastructure projects involving multiple teams;
@@ -14,6 +12,7 @@ Network Engineer
 -	Provide network infrastructure for virtualized and containerized workloads to other teams;
 -	Manage network infrastructure in our data centers encompassing provisioning, and overall lifecycle management;
 -	Act as an escalation point for networks and services owned by the team.
+<br>
 
 **Cisco Systems Poland, September 2018 to September 2020**
 **Data Center Network Consulting Engineer**
@@ -22,6 +21,7 @@ Network Engineer
 -	Solves complex, cross-functional issues that cross many technologies in network, server, storage, O/S, virtualization, consolidation, middleware, security, applications, operations, content switching, caching and/or content delivery networks, and security;
 -	I have been leading projects and successfully delivered for the following clients:
 IBM, Britishtelecom, T-Mobile, BNPP, TELECOM ITALIA, BNP Paribas, Daimler BMW, du (Dubai) in EMEA Region.
+<br>
 
 **Kaspi bank Kazakhstan, August 2017 to September 2018**
 **Senior Network Engineer**
@@ -29,6 +29,7 @@ IBM, Britishtelecom, T-Mobile, BNPP, TELECOM ITALIA, BNP Paribas, Daimler BMW, d
 -	Lead cross-functional collaboration between internal teams and external vendors to support network services;
 -	Handle escalated trouble calls and work closely with engineering, field technicians, and telecommunications carriers to resolve service issues;
 -	Participates in and leads complex Data Center network design & implementation and migration, performance engineering or problem resolution projects.
+<br>
 
 **Steplogic Kazakhstan, August 2010 to August 2017**
 **System Architect**
@@ -39,11 +40,13 @@ IBM, Britishtelecom, T-Mobile, BNPP, TELECOM ITALIA, BNP Paribas, Daimler BMW, d
 -	Applies good analytic process to help bring any issue to resolution.
 -	Ensure smooth closure of engagements using relationship with the customer to guide them to the next step i.e. Sampler service to Assessment Service, Assessment Service to Optimization Service.
 -	Guide other consultants and engineers, resolving challenges and ensuring customer success.
+<br>
 
 **DataTek Kazakhstan, August 2008 to August 2010**
 **Senior Network Engineer**
 -	Providing technical support of networks, network management systems, storage and computing systems;
 -	Pre-sale, Design, installation, provisioning, support and maintenance of enterprise networks, Collaboration systems, optical networking systems.
+<br>
 
 **COMPTEK Kazakhstan, May 2008 to August 2008**
 **Pre-Sale Engineer**
@@ -51,11 +54,12 @@ IBM, Britishtelecom, T-Mobile, BNPP, TELECOM ITALIA, BNP Paribas, Daimler BMW, d
 -	Designing, creating Bill of Materials.
 
 **EDUCATION**
-
-Almaty Institute of Power and Telecommunications, 2005-2009
+-
+Almaty Institute of Power and Telecommunications, 2005-2009 <br>
 BSc in Computer Science
 
 **CERTIFICATION**
+-
 -	Cisco CCIE DC Written
 -	Cisco Certified Network Professional (CCNP)
 -	Cisco Certified Design Professional (CCDP)
