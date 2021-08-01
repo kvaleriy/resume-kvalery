@@ -14,7 +14,7 @@ Network Engineer
 -	Act as an escalation point for networks and services owned by the team.
 <br>
 
-**Cisco Systems Poland, September 2018 to September 2020**
+**Cisco Systems Poland, September 2018 to September 2020**<br>
 **Data Center Network Consulting Engineer**
 -	Provide Planning, Designing, Implementation, Operation and Optimization services to Cisco Advanced Services Customers around Cisco’s Data Center products (VXLAN, Cisco ACI and SAN) and Tetration Analytical Solutions;
 -	Actively involved in latest industry SDN (Software Defined Networking) technology and Cisco ACI (Application Centric Infrastructure) deployments;
@@ -23,7 +23,7 @@ Network Engineer
 IBM, Britishtelecom, T-Mobile, BNPP, TELECOM ITALIA, BNP Paribas, Daimler BMW, du (Dubai) in EMEA Region.
 <br>
 
-**Kaspi bank Kazakhstan, August 2017 to September 2018**
+**Kaspi bank Kazakhstan, August 2017 to September 2018** <br>
 **Senior Network Engineer**
 -	Search and identification of potential problematic area in network and their correction;
 -	Lead cross-functional collaboration between internal teams and external vendors to support network services;
@@ -42,13 +42,13 @@ IBM, Britishtelecom, T-Mobile, BNPP, TELECOM ITALIA, BNP Paribas, Daimler BMW, d
 -	Guide other consultants and engineers, resolving challenges and ensuring customer success.
 <br>
 
-**DataTek Kazakhstan, August 2008 to August 2010**
+**DataTek Kazakhstan, August 2008 to August 2010**<br>
 **Senior Network Engineer**
 -	Providing technical support of networks, network management systems, storage and computing systems;
 -	Pre-sale, Design, installation, provisioning, support and maintenance of enterprise networks, Collaboration systems, optical networking systems.
 <br>
 
-**COMPTEK Kazakhstan, May 2008 to August 2008**
+**COMPTEK Kazakhstan, May 2008 to August 2008**<br>
 **Pre-Sale Engineer**
 -	Consulting and support partners;
 -	Designing, creating Bill of Materials.
