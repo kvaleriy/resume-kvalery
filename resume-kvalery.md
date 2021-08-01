@@ -1,5 +1,5 @@
 # Valeriy Kayukov
-### Network Engineer
+### Network Engineer | Ireland resident
 Professional Experience 12 years
 [GitHub](https://github.com/kvaleriy) | [LinkedIn](https://www.linkedin.com/in/valery-k-ab8b3945/) | [Email](mailto:kayukovvalery@gmail.com)
 
