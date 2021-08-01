@@ -1,7 +1,7 @@
 # Valeriy Kayukov
 ## Network Engineer
-[GitHub](https://github.com/kvaleriy) | [LinkedIn](https://www.linkedin.com/in/valery-k-ab8b3945/) | [Email](mailto:kayukovvalery@gmail.com)
 Professional Experience 12 years
+[GitHub](https://github.com/kvaleriy) | [LinkedIn](https://www.linkedin.com/in/valery-k-ab8b3945/) | [Email](mailto:kayukovvalery@gmail.com)
 
 **EXPERIENCE**
 -
