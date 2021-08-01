@@ -31,7 +31,7 @@ IBM, Britishtelecom, T-Mobile, BNPP, TELECOM ITALIA, BNP Paribas, Daimler BMW, d
 -	Participates in and leads complex Data Center network design & implementation and migration, performance engineering or problem resolution projects.
 <br>
 
-**Steplogic Kazakhstan, August 2010 to August 2017**
+**Steplogic Kazakhstan, August 2010 to August 2017**<br>
 **System Architect**
 -	Participate in the preparation of proposals and Statements of Work. Establish trusted advisor relationship with customer management and teams on Data Center Infrastructure areas and future technology trends.
 -	Participates in or leads complex Data Center and Cloud infrastructure (network, storage and compute) design/implementation and migration, performance engineering or problem resolution projects.
