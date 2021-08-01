@@ -1,7 +1,7 @@
 **Valeriy Kayukov**
 **Network Engineer**
 
-Professional Experience 12 years/n
+Professional Experience 12 years
 Mob.: +353 221 2501
 email: kayukovvalery@gmail.com
 
